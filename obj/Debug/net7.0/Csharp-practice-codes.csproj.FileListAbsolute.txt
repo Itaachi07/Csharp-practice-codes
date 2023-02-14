@@ -1,0 +1,15 @@
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\bin\Debug\net7.0\Csharp-practice-codes.exe
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\bin\Debug\net7.0\Csharp-practice-codes.deps.json
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\bin\Debug\net7.0\Csharp-practice-codes.runtimeconfig.json
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\bin\Debug\net7.0\Csharp-practice-codes.dll
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\bin\Debug\net7.0\Csharp-practice-codes.pdb
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\obj\Debug\net7.0\Csharp-practice-codes.csproj.AssemblyReference.cache
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\obj\Debug\net7.0\Csharp-practice-codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\obj\Debug\net7.0\Csharp-practice-codes.AssemblyInfoInputs.cache
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\obj\Debug\net7.0\Csharp-practice-codes.AssemblyInfo.cs
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\obj\Debug\net7.0\Csharp-practice-codes.csproj.CoreCompileInputs.cache
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\obj\Debug\net7.0\Csharp-practice-codes.dll
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\obj\Debug\net7.0\refint\Csharp-practice-codes.dll
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\obj\Debug\net7.0\Csharp-practice-codes.pdb
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\obj\Debug\net7.0\Csharp-practice-codes.genruntimeconfig.cache
+C:\Z Programing Languages\GitHub\Csharp-practice-codes\obj\Debug\net7.0\ref\Csharp-practice-codes.dll
